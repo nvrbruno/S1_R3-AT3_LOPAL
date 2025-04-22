@@ -9,6 +9,6 @@ if (isNaN(num)) {
     // Se o número for válido, inicia um loop que vai de 1 até o número digitado pelo usuario
     for (let i = 1; i <= num; i++) {         
         // Exibe um alerta com o número atual do loop
-        alert(`${i}`)     
+        console.log(`${i}`)     
     } 
 }
