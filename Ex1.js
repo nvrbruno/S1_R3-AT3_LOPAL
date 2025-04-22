@@ -1,4 +1,3 @@
-// Solicita ao usuário que digite um número e converte a entrada para um número inteiro
 const num = parseInt(prompt("Digite um número para mostrar quantos números do 1 ao número informado:"));  
 
 // Verifica se o valor digitado não é um número
