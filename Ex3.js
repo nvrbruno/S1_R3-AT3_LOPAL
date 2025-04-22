@@ -1,4 +1,4 @@
-let numero = parseInt(prompt("Digite um número para ver a sua tabuada de 1 a 10:")); // Converte a entrada para número inteiro
+let numero = parseInt(prompt("Digite um número para ver a sua tabuada de 1 a 10:")); 
 
 if (isNaN(numero)) { // Verifica se o valor digitado é inválido
     alert("Valor inválido! Por favor, digite um número válido.");
